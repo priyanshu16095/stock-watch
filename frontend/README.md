@@ -48,4 +48,3 @@ In the index.css file, there are various utility classes to ensure consistent UI
 * **Responsive:** 
 The entire UI is responsive, thanks to the Container component provided by Material-UI.
 
-![](./public/github-01.png)
