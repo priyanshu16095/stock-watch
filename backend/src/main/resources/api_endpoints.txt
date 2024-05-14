@@ -1,0 +1,11 @@
+Watchlist
+GET: http://localhost:8080/stockwatch/watchlist/{id}
+POST: http://localhost:8080/stockwatch/watchlist
+DELETE: http://localhost:8080/stockwatch/watchlist/{id}
+
+User
+GET: http://localhost:8000/stockwatch/user/{id}
+POST: http://localhost:8000/stockwatch/user
+
+ADD WATCHLIST ITEM TO USER's WATCHLIST
+POST: http://localhost:8000/stockwatch/user/{userId}/watchlist
