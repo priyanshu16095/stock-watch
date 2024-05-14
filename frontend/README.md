@@ -2,7 +2,7 @@
 
 ### Set up 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/priyanshu16095/stock-watch.git)
 cd stock-watch
 cd frontend
 npm install
