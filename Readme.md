@@ -19,3 +19,6 @@ Stock Watch is a comprehensive web application that provides details of stock sy
 3. Similarly, navigate to the `backend` folder and follow the instructions in the README file to set up the backend environment.
 4. Start the frontend and backend servers.
 5. Access the application through the provided URL and start exploring cryptocurrency data.
+
+### Note:
+Only the sybmol=IBM and function=TIME_SERIES_DAILY endpoint of API is available for free.
